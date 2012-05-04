@@ -1,3 +1,4 @@
+//Not fixed
 object P23 {
 	import scala.collection.mutable.ListBuffer
 	val lb = ListBuffer[List[Long]]()
